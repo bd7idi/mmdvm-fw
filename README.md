@@ -8,7 +8,7 @@ DE BG3MDO, M6IDO
 
 How to run, copy and paste the following command into terminal.
 
-rpi-rw&&wget https://gitee.com/bd7idi/mmdvm-fw/blob/master/update.sh&&chmod +x update.sh&&./update.sh
+rpi-rw&&wget https://github.com/bd7idi/mmdvm-fw/blob/master/update.sh&&chmod +x update.sh&&./update.sh
 
 
 感谢BG3MDO提供的固件升级方法。
