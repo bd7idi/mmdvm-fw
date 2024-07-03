@@ -11,9 +11,11 @@ How to run, copy and paste the following command into terminal.
 rpi-rw&&wget https://gitee.com/bd7idi/mmdvm-fw/blob/master/update.sh&&chmod +x update.sh&&./update.sh
 
 
-谢谢BG3MDO提供的固件升级方法。
+感谢BG3MDO提供的固件升级方法。
 
-
+#
+#
+#
 
 <del>现BG3MDO热点板升级方法修改版：2024-7-3</del>
 
@@ -29,7 +31,8 @@ rpi-rw&&wget https://gitee.com/bd7idi/mmdvm-fw/blob/master/update.sh&&chmod +x u
 
 <del># mmdvm_f1_sam.bin 单工</del>
 <del>rpi-rw&&wget https://githee.com/bd7idi/mmdvm-fw/blob/master/mmdvm_f1_sam.bin&&chmod +x update_sam.sh&&./update_sam.sh</del>
-
+#
+#
 
 
 原BG3MDO的固件升级方法
