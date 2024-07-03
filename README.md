@@ -8,10 +8,10 @@
 3.How to run, copy and paste the following command into terminal.
 
 # mmdvm_f1_dual.bin 双工
-rpi-rw&&wget https://github.com/bg3mdo/bg3mdo-mmdvm-fw/raw/master/update_dual.sh&&chmod +x update_dual.sh&&./update_dual.sh
+rpi-rw&&wget https://github.com/bd7idi/mmdvm-fw/blob/master/mmdvm_f1_dual.bin&&chmod +x update_dual.sh&&./update_dual.sh
 
 # mmdvm_f1_sam.bin 单工
-rpi-rw&&wget https://github.com/bg3mdo/bg3mdo-mmdvm-fw/raw/master/update_sam.sh&&chmod +x update_sam.sh&&./update_sam.sh
+rpi-rw&&wget https://github.com/bd7idi/mmdvm-fw/blob/master/mmdvm_f1_sam.bin&&chmod +x update_sam.sh&&./update_sam.sh
 
 
 谢谢BG3MDO提供的固件升级方法。
