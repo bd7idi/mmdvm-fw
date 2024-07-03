@@ -1,16 +1,17 @@
 现BG3MDO热点板升级方法修改版：2024-7-3
 
 1.Current Version; 1.6.1
-# mmdvm_f1_dual.bin 双工
-# mmdvm_f1_sam.bin 单工
+
 
 2.You might need to adjust TRX offse under MMDVMhost ini/expert mode in Pi-star.
 
 3.How to run, copy and paste the following command into terminal.
 
-双工 rpi-rw&&wget https://github.com/bg3mdo/bg3mdo-mmdvm-fw/raw/master/update.sh&&chmod +x update.sh&&./update.sh
+# mmdvm_f1_dual.bin 双工
+rpi-rw&&wget https://github.com/bg3mdo/bg3mdo-mmdvm-fw/raw/master/update_dual.sh&&chmod +x update_dual.sh&&./update_dual.sh
 
-单工rpi-rw&&wget https://github.com/bg3mdo/bg3mdo-mmdvm-fw/raw/master/update.sh&&chmod +x update.sh&&./update.sh
+# mmdvm_f1_sam.bin 单工
+rpi-rw&&wget https://github.com/bg3mdo/bg3mdo-mmdvm-fw/raw/master/update_sam.sh&&chmod +x update_sam.sh&&./update_sam.sh
 
 
 谢谢BG3MDO提供的固件升级方法。
