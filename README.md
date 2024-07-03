@@ -1,4 +1,4 @@
-BG3MDO 热点板，更新1.5.2方法 2024-7-3
+###BG3MDO 热点板，更新1.5.2方法 2024-7-3
 
 1.Current Version; 1.5.2
 
@@ -35,7 +35,7 @@ rpi-rw&&wget https://gitee.com/bd7idi/mmdvm-fw/blob/master/update.sh&&chmod +x u
 #
 
 
-原BG3MDO的固件升级方法
+###原BG3MDO的固件升级方法
 # bg3mdo-mmdvm-fw updater
 
 1.Current Version; 1.4.17
